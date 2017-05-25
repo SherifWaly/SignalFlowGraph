@@ -18,3 +18,4 @@ public class Edge {
 		return signal;
 	}
 }
+ 
